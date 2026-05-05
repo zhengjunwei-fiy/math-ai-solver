@@ -182,4 +182,13 @@ npm run dev
 - 图片需要能被 Obsidian 识别为有效附件
 - 相似题检索依赖 Embedding 质量，模型变化后建议重新索引
 - 在线 API 的响应格式和模型能力会影响题解质量
+<img width="1454" height="648" alt="image" src="https://github.com/user-attachments/assets/a9296717-850c-4807-8a05-e05f32eaa94f" />
+//
+<img width="1383" height="1056" alt="image" src="https://github.com/user-attachments/assets/fdb2df57-5ccc-4f27-902b-5b584d1758ef" />
+//
+<img width="1304" height="695" alt="image" src="https://github.com/user-attachments/assets/885c447a-5899-43f5-b922-798bd480975e" />
+//
+<img width="1463" height="1142" alt="image" src="https://github.com/user-attachments/assets/d6ed537c-9795-4af5-a77c-748efa89c6ee" />
+
+
 
