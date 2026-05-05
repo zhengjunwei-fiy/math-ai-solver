@@ -1,0 +1,57 @@
+.math-solver-privacy-notice {
+  padding: 10px 12px;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+  border-left: 3px solid var(--interactive-accent);
+  background: var(--background-modifier-hover);
+  font-size: 0.9em;
+  line-height: 1.45;
+}
+.math-solver-privacy-notice p {
+  margin: 0;
+}
+
+.callout[data-callout="info"] {
+    border-left: 4px solid #5bc0eb;
+    background: var(--background-modifier-hover);
+    padding-left: 12px;
+  }
+  .callout[data-callout="info"] strong {
+    color: #3781d4;
+  }
+  .markdown-preview-section .callout[data-callout] {
+    margin: 1.5em 0;
+  }
+  .markdown-preview-section .callout[data-callout] .callout-title {
+    font-size: 1.05em;
+    font-weight: bold;
+  }
+  .markdown-preview-section .callout[data-callout] ul,
+  .markdown-preview-section .callout[data-callout] ol {
+    margin-left: 1em;
+  }
+  .markdown-preview-section ol > li {
+    margin-bottom: 0.3em;
+  }
+  .callout[data-callout] {
+    border-radius: 8px;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.04);
+  }
+  /* 步骤编号美化 */
+  .markdown-preview-section ol {
+    counter-reset: step;
+  }
+  
+  .markdown-preview-section li {
+    position: relative;
+    padding-left: 1.2em;
+  }
+  
+  .markdown-preview-section li:before {
+    counter-increment: step;
+    content: counter(step) ".";
+    position: absolute;
+    left: 0;
+    color: #5bc0eb;
+    font-weight: bold;
+  }

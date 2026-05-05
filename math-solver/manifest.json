@@ -1,0 +1,10 @@
+{
+  "id": "math-ai-solver",
+  "main": "main.js",
+  "name": "考研数学 AI 题解",
+  "version": "1.1.0",
+  "minAppVersion": "0.15.0",
+  "description": "在线 API（智谱/通义/OpenAI 兼容）识图解题与向量相似题；可选本地 Ollama。",
+  "author": "User",
+  "isDesktopOnly": true
+}
