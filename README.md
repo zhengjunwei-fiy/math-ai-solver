@@ -190,5 +190,6 @@ npm run dev
 //
 <img width="1463" height="1142" alt="image" src="https://github.com/user-attachments/assets/d6ed537c-9795-4af5-a77c-748efa89c6ee" />
 
+NOTICE：如果报出模型输出无法解析为JSON，请修改max_tokens：至足够大值（原值为2048）
 
 
